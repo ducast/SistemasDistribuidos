@@ -132,7 +132,3 @@ int main(int argc, char** argv) {
 	return 0;
 }
 
-// VER "BUG" DO RAND != 1 (NÚMEROS ALEATÓRIOS SERIALIZAM E PERDEM TEMPO???)
-// COM RAND, THREADS NÃO FAZEM DIFERENÇA NO TEMPO
-// COM 1, THREA
-// CONSERTAR CLOCK!!!! NÃO USAR CLOCK!!!
